@@ -1,0 +1,41 @@
+{
+  "models" : [
+    {
+      "accuracy" : "9/10",
+      "displayName" : "Parakeet TDT v3 — 25 языков (Neural Engine)",
+      "downloadURL" : "https://pub-6a70be6d7f7c4eb6abee0439dca32658.r2.dev/models/parakeet-tdt-0.6b-v3-coreml.zip",
+      "engine" : "parakeet",
+      "fileName" : "parakeet-tdt-0.6b-v3-coreml.zip",
+      "id" : "parakeet-tdt-0.6b-v3",
+      "language" : "auto",
+      "sha256" : "9b15c4a3c06e250c02e476c3466bed16dd99c6ff07f811c8ff2e19d641d18189",
+      "sizeBytes" : 465813935,
+      "speed" : "10/10"
+    },
+    {
+      "accuracy" : "9/10",
+      "displayName" : "Whisper Large v3 Turbo — мультиязык",
+      "downloadURL" : "https://pub-6a70be6d7f7c4eb6abee0439dca32658.r2.dev/models/ggml-large-v3-turbo.bin",
+      "engine" : "whisper",
+      "fileName" : "ggml-large-v3-turbo.bin",
+      "id" : "whisper-large-v3-turbo",
+      "language" : "auto",
+      "sha256" : "1fc70f774d38eb169993ac391eea357ef47c88757ef72ee5943879b7e8e2bc69",
+      "sizeBytes" : 1624555275,
+      "speed" : "8/10"
+    },
+    {
+      "accuracy" : "7/10",
+      "displayName" : "Whisper Medium Q8 — лёгкая, мультиязык",
+      "downloadURL" : "https://pub-6a70be6d7f7c4eb6abee0439dca32658.r2.dev/models/ggml-medium-q8_0.bin",
+      "engine" : "whisper",
+      "fileName" : "ggml-medium-q8_0.bin",
+      "id" : "whisper-medium-q8",
+      "language" : "auto",
+      "sha256" : "42a1ffcbe4167d224232443396968db4d02d4e8e87e213d3ee2e03095dea6502",
+      "sizeBytes" : 823369779,
+      "speed" : "9/10"
+    }
+  ],
+  "signature" : "XkDIis/aRqZWKZ/VdZ9fsh0/BpECWByIJqxSLFag6M2AX3Ul6TZmhA/6sir83NonPS58yC7niLfAz9xY/jJYBw=="
+}
